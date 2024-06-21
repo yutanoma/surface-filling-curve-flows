@@ -2,13 +2,10 @@
 
 Public code release for [Surface-Filling Curve Flows via Implicit Medial Axes](https://www.dgp.toronto.edu/projects/surface-filling-curves/).
 
-Surface-Filling Curve Flows via Implicit Medial Axes
-
-Yuta Noma, Silvia Sellán, Nicholas Sharp, Karan Singh, Alec Jacobson
-
-ACM Transaction on Graphics (Proceedings of SIGGRAPH North America 2024)
-
-[Project page](https://www.dgp.toronto.edu/projects/surface-filling-curves/)
+**Surface-Filling Curve Flows via Implicit Medial Axes**<br>
+Yuta Noma, Silvia Sellán, Nicholas Sharp, Karan Singh, Alec Jacobson<br>
+ACM Transaction on Graphics (Proceedings of SIGGRAPH North America 2024)<br>
+[[Project page](https://www.dgp.toronto.edu/projects/surface-filling-curves/)]
 
 ## Requirements
 
