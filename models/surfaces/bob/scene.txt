@@ -1,0 +1,5 @@
+mesh bob_tri_refined.obj
+scalar bob_grayscale.txt
+radius 0.1
+h 0.005
+varying_alpha

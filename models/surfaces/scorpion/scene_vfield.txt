@@ -1,0 +1,6 @@
+mesh scorpion_low_resolution.obj
+curve scorpion_low_resolution.obj
+radius 0.15
+h 0.015
+rmax 0.6
+field_aligned 2

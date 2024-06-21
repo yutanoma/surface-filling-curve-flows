@@ -1,0 +1,4 @@
+mesh armadillo.obj
+curve armadillo.obj
+radius 0.02
+h 0.003 
