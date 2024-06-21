@@ -1,5 +1,7 @@
 ## Surface-Filling Curve Flows via Implicit Medial Axes
 
+<img src="./assets/teaser.jpg" width="100%">
+
 Public code release for [Surface-Filling Curve Flows via Implicit Medial Axes](https://www.dgp.toronto.edu/projects/surface-filling-curves/).
 
 **Surface-Filling Curve Flows via Implicit Medial Axes**<br>
