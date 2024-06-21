@@ -35,3 +35,5 @@ Install CMake, and use either the CMake GUI or the command line interface (as on
 ./bin/curve_on_surface ../models/surfaces/scorpion/scene.txt
 ```
 By pressing the space bar or checking "run loop", it will produce a surface-filling curve!
+
+If any issues or questions, please contact yn.devilstick@gmail.com. 
