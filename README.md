@@ -9,10 +9,6 @@ Yuta Noma, Silvia Sellán, Nicholas Sharp, Karan Singh, Alec Jacobson<br>
 ACM Transaction on Graphics (Proceedings of SIGGRAPH North America 2024)<br>
 [[Project page](https://www.dgp.toronto.edu/projects/surface-filling-curves/)]
 
-## Requirements
-
-- Eigen: 3.4.0
-
 ## Build the code
 
 First, install all the dependencies with `git submodule update --init --recursive`.
