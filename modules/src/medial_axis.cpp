@@ -92,8 +92,8 @@ namespace modules {
 
     Vector2 traceVec {dot(d, x), dot(d, y)};
     TraceOptions opts = {
-      includePath: true,
-      maxIters: 1000
+      .includePath = true,
+      .maxIters = 1000
     };
     auto res = traceGeodesic(geometry, node, traceVec, opts);
 

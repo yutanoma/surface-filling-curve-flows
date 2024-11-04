@@ -317,15 +317,15 @@ void doWork() {
 
   // 1. get the descent direction
   modules::SurfaceFillingEnergy::Options options = {
-    p: scene.p,
-    q: scene.q,
-    w_fieldAlignedness: scene.w_fieldAlignedness,
-    vectorField: vField,
-    w_curvatureAlignedness: scene.w_curvatureAlignedness,
-    w_bilaplacian: scene.w_bilaplacian,
-    useAnisotropicAlphaOnMesh: scene.varyingAlpha,
-    alphaRatioOnMesh: smoothedFunction,
-    useGeodesicMedialAxis: scene.useGeodesicMedialAxis
+    .p = scene.p,
+    .q = scene.q,
+    .w_fieldAlignedness = scene.w_fieldAlignedness,
+    .vectorField = vField,
+    .w_curvatureAlignedness = scene.w_curvatureAlignedness,
+    .w_bilaplacian = scene.w_bilaplacian,
+    .useAnisotropicAlphaOnMesh = scene.varyingAlpha,
+    .alphaRatioOnMesh = smoothedFunction,
+    .useGeodesicMedialAxis = scene.useGeodesicMedialAxis
   };
   auto [d, g, f, medialAxis] = modules::surface_filling_energy_geodesic(*mesh, *geometry, nodes, segments, segmentSurfacePoints, segmentLengths, isFixedNode, cartesianCoords, radius, rmax, options);
 
