@@ -1,4 +1,4 @@
-## Surface-Filling Curve Flows via Implicit Medial Axes
+## Surface-Filling Curve Flows via Implicit Medial Axes [SIGGRRAPH North America 2024]
 
 <img src="./assets/teaser.jpg" width="100%">
 
